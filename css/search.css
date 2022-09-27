@@ -29,7 +29,7 @@ a{
     grid-template-columns: repeat(3,1fr);
     margin: auto;
     gap: 1vw;
-    background-color: yellowgreen;
+    background-color: whitesmoke;
     margin-top: 3vh;
     border-radius: 10px;
 }
